@@ -3,5 +3,5 @@
 Status: Finalizado
 
 <h2>Descrição</h2>
-Esse projeto é uma landing page feita para exibir os resultados de uma aplicação do google design sprint
+Esse projeto é uma landing page hospedada com o github pages, com o objetivo de exibir os resultados de uma aplicação do google design sprint
 feita pelo nosso grupo de estudantes de Ciencias da Computação, na disciplina de Interação Homem-Computador do 3° periodo.
